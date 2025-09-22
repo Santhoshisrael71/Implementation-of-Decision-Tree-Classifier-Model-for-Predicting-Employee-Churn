@@ -85,36 +85,47 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 
 #head:
+
 <img width="1236" height="225" alt="image" src="https://github.com/user-attachments/assets/44e91a79-909e-4fb9-b98d-34b7fc21dda6" />
 
 #info:
+
 <img width="809" height="324" alt="image" src="https://github.com/user-attachments/assets/c7b19a99-7649-4b9b-bbdd-01592e0ac650" />
 
 #isnull:
+
 <img width="781" height="223" alt="image" src="https://github.com/user-attachments/assets/c35f3b7f-d896-4612-a39b-fac456a7fad2" />
 
 #left:
+
 <img width="571" height="104" alt="image" src="https://github.com/user-attachments/assets/93933423-5c32-44e6-b96a-410a887e1e2e" />
  
 #head:
+
 <img width="1218" height="219" alt="image" src="https://github.com/user-attachments/assets/097d2366-ef4e-4221-bfd1-30afc9c70960" />
 
 #x.head:
+
 <img width="1237" height="228" alt="image" src="https://github.com/user-attachments/assets/0270340a-f98f-42b3-a3c5-a29d258d040a" />
 
 #y.head:
+
 <img width="542" height="235" alt="image" src="https://github.com/user-attachments/assets/ebd701b7-cbb1-4358-a31b-511addf3847b" />
 
 #y_pred:
+
 <img width="927" height="101" alt="image" src="https://github.com/user-attachments/assets/0cb22498-121c-4a7e-aa0f-bf9efc048ed8" />
 
 #accuracy:
+
 <img width="699" height="57" alt="image" src="https://github.com/user-attachments/assets/a2b796a0-6125-4b21-bed3-447ad930f293" />
 
 #confusion:
+
 <img width="773" height="57" alt="image" src="https://github.com/user-attachments/assets/39407ed5-98e3-4b26-9ba8-37c86ae105f6" />
 
 #classification report:
+
 <img width="775" height="178" alt="image" src="https://github.com/user-attachments/assets/c09f6f6e-57e1-488e-8838-11a42e2e8af2" />
 
 #predict:
